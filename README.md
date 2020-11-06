@@ -1,71 +1,56 @@
-## GitHub Docs <!-- omit in toc -->
+<p align="center">
+    <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+</p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Darkhorse07232020&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
+</p>
 
-This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
+## Welcome 🎉 to my profile. 
 
-GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
+Talking about Personal Stuffs:
+- I'm a full-stack developer for large projects and ready to start your project anytime.
+- Enterprise application development and support
+- How to reach me: [Skype](https://join.skype.com/invite/ojEURm8GOQPH), [Email-Outlook](mailto:darkhorse0723@outlook.com), [Email-Eclipso](mailto:darkhorse0723@eclipso.email)
 
-In this article:
-- [Contributing](#contributing)
-- [READMEs](#readmes)
-- [License](#license)
+#### Website Development
+- <b>Front-end</b> : Vuejs | Reactjs | Bootstrap
+- <b>Back-end</b> : Node.js | Django | Ruby on Rails | Laravel | Symfony | CodeIgniter
+- <b>Database</b> : Mysql | MongoDB | PostgreSQL
+- <b>CMS</b> : Wordpress | Shopify
+- Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher and so on
+#### Mobile Application Development
+- Android, iOS, iPad
+- Flutter/Dart
+- React Native
+- SQLite, Google Firebase
 
-## Contributing
+### Skills and Tools:
 
-### Start contributing right now:
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
-We accept a lot of [different contributions](CONTRIBUTING.md/#types-of-contributions-memo), including some that don't require you to write a single line of code.
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
-#### Click **make a contribution** from docs
-
-As you're using the GitHub Docs, you may find something in an article that you'd like to add to, update, or change. Click on **make a contribution** to navigate directly to that article in the codebase, so that you can begin making your contribution.
-
-<img src="./assets/images/contribution_cta.png" width="400">
-
-#### Open an issue
-
-If you've found a problem, you can open an issue using a [template](https://github.com/github/docs/issues/new/choose).
-
-#### Solve an issue
-
-If you have a solution to one of the open issues, you will need to fork the repository and submit a PR using the [template](https://github.com/github/docs/blob/main/CONTRIBUTING.md#pull-request-template) that is visible automatically in the pull request body. For more details about this process, please check out [Getting Started with Contributing](/CONTRIBUTING.md).
-
-#### Join us in discussions
-
-We use GitHub Discussions to talk about all sorts of topics related to documentation and this site. For example: if you'd like help troubleshooting a PR, have a great new idea, or want to share something amazing you've learned in our docs, join us in [discussions](https://github.com/github/docs/discussions).
-
-#### And that's it!
-That's how you can get started easily as a member of the GitHub Documentation community. :sparkles:
-
-If you want to know more, or you're making a more complex contribution, check out [Getting Started with Contributing](/CONTRIBUTING.md).
-
-There are a few more things to know when you're getting started with this repo:
-
-1. If you're having trouble with your GitHub account, contact [Support](https://support.github.com/contact).
-2. We do not accept pull requests for translated content - see [CONTRIBUTING.md](/CONTRIBUTING.md) for more information.
-
-## READMEs
-
-In addition to the README you're reading right now, this repo includes other READMEs that describe the purpose of each subdirectory in more detail:
-
-- [content/README.md](content/README.md)
-- [contributing/README.md](contributing/README.md)
-- [data/README.md](data/README.md)
-- [data/reusables/README.md](data/reusables/README.md)
-- [data/variables/README.md](data/variables/README.md)
-- [includes/liquid-tags/README.md](includes/liquid-tags/README.md)
-- [includes/README.md](includes/README.md)
-- [javascripts/README.md](javascripts/README.md)
-- [layouts/README.md](layouts/README.md)
-- [lib/liquid-tags/README.md](lib/liquid-tags/README.md)
-- [middleware/README.md](middleware/README.md)
-- [script/README.md](script/README.md)
-- [stylesheets/README.md](stylesheets/README.md)
-- [tests/README.md](tests/README.md)
-
-## License
-
-The GitHub product documentation in the assets, content, and data folders are licensed under a [CC-BY license](LICENSE).
-
-All other code in this repository is licensed under a [MIT license](LICENSE-CODE).
-
-When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Darkhorse07232020&theme=highcontrast&include_all_commits=true" alt="my github stats" height="190px" />
+    &nbsp;
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Darkhorse07232020&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
+</p>
